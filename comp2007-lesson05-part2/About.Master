@@ -1,0 +1,9 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="About.master.cs" MasterPageFile="~/MasterPages/Frontend.Master"  Inherits="comp2007_lesson05_part2.About" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <title>About us</title>
+</asp:Content>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="cpMainContent" runat="server">
+    <h1>Information Goes here</h1>
+</asp:Content>
